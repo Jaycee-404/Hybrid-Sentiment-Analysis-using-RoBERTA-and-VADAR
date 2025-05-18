@@ -1,5 +1,6 @@
 # Hybrid-Sentiment-Analysis-Combining-RoBERTA-and-VADAR
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Project Overview
 
@@ -82,4 +83,4 @@ This project follows a hybrid sentiment analysis approach by combining lexicon-b
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
