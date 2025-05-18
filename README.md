@@ -83,4 +83,4 @@ This project follows a hybrid sentiment analysis approach by combining lexicon-b
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jaycee-404/Hybrid-Sentiment-Analysis-using-RoBERTA-and-VADAR/blob/main/LICENSE) file for details.
