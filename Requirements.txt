@@ -1,0 +1,10 @@
+Python 3.x
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+seaborn
+matplotlib
+torch
+transformers
+nltk (for VADER)
