@@ -71,15 +71,6 @@ This project follows a hybrid sentiment analysis approach by combining lexicon-b
 
 ---
 
-## Visualizations
-
-- Confusion Matrix for classification results
-
-- Bar charts comparing average sentiment scores from VADER and RoBERTa
-
-- Pairplot showing correlations between sentiment scores across classes
-
----
 
 ## License
 
