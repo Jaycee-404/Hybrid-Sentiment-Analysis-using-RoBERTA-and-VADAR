@@ -58,16 +58,34 @@ This project follows a hybrid sentiment analysis approach by combining lexicon-b
 
 ### 7. Visualization
 - Confusion Matrix to observe misclassifications across classes.
+-  ![image](https://github.com/user-attachments/assets/448f0f87-54fa-446e-919b-21275d96153d).
+
+                    
+  
 - Bar plots comparing average sentiment scores from VADER and RoBERTa.
+  ![image](https://github.com/user-attachments/assets/8bbfa6a9-429c-49a9-9713-a62fe749eaa9)
+  
 - Pairplot to visualize feature distributions and class separability.
+ ![image](https://github.com/user-attachments/assets/aefab2b9-8cb8-431b-8760-2e9f10a7fbaa)
 
 ---
 
 ## Results
 
-- **Test Accuracy:** ~97%  
-- **5-Fold CV Accuracy:** ~98%  
+- **Test Accuracy:** ~97%
+  
+  -![image](https://github.com/user-attachments/assets/bd9eb025-4cfb-429b-b93a-3036c6e7e490)
+
+- **5-Fold CV Accuracy:** ~98%
+  
+  ![image](https://github.com/user-attachments/assets/361cec44-e261-48bb-9f5a-af9eee9c8835)
+
 - Confusion matrix and pairplots visualize class separability and sentiment score distribution.
+
+ 
+
+  
+
 
 ---
 
